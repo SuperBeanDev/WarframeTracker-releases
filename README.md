@@ -5,9 +5,6 @@ Tracker per Warframe: collezione, maestria e Fonderia. Legge il gioco solo con i
 ## Download
 
 Apri **Releases** e scarica `WarframeTracker_<versione>.zip`.
-I link "Source code" contengono solo questo README, non l'app.
-
-Scarica l'app solo da questa pagina.
 
 ## Note
 
